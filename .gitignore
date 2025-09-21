@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local
+.env
+config/*.json
+
+# MongoDB dumps
+*.bson
+
+# Archivos de logs
+*.log
+
+# Archivos temporales de editor
+*.swp
+*.swo
